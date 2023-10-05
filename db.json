@@ -1,11 +1,12 @@
-{ "categories": [
+{
+      "categories": [
       {
          "id": 1,
-         "name": "BOLOS"
+         "name": "Bolos"
       },
       {
          "id": 2,
-         "name": "DOCES"
+         "name": "Doces"
       }
    ],
    "videos": [
